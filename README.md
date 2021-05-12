@@ -1,0 +1,2 @@
+# TradingBot
+Simple Tradig Bot
