@@ -1,3 +1,4 @@
 /.idea/
 /venv/
 /a_core/a_core/credentials.py
+/a_core/static/admin/

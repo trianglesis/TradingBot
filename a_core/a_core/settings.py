@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 import os
 from pathlib import Path
-import credentials
+import a_core.credentials as credentials
 import socket
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
