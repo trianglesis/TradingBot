@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 import os
 from pathlib import Path
 
-import site.credentials as credentials
+import a_core.credentials as credentials
 
 import socket
 
