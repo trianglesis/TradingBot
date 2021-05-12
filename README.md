@@ -1,2 +1,2 @@
 # TradingBot
-Simple Tradig Bot
+Simple Trading Bot
