@@ -2,3 +2,7 @@
 /venv/
 /a_core/a_core/credentials.py
 /a_core/static/admin/
+/a_core/static/css/
+/a_core/static/fonts/
+/a_core/static/img/
+/a_core/static/js/
